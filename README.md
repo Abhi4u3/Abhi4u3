@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif"
+    src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif"
     width="100%"
     alt="Animated Sky Banner"
   />

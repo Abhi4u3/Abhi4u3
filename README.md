@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif"
-    width="100%"
+    width="75%"
     alt="Animated Sky Banner"
   />
 </p>

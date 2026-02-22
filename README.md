@@ -33,7 +33,7 @@
 ## 🧠 AI / ML / GenAI Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,aws,docker,html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,aws,docker,html,css,js"/>
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>

@@ -2,10 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Abhi%204u3&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Abhi</h2>
+<h2 align="center">Hi 👋, I'm AbhirAm</h2>
 
 <p align="center">
-Software Developer | Python | Flask | AI/ML Enthusiast
+AI/ML Engineer | Python • ML • Deep Learning
+Building real-world AI products with Flask, AWS & APIs
+Always learning. Always shipping 🚀
 </p>
 
 ---

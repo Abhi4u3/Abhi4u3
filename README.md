@@ -6,50 +6,56 @@
   />
 </p>
 
-<h2 align="center">
-  <span style="font-family: 'Times New Roman', serif;">
-    Hi 👋, I'm Abhiram
-  </span>
-</h2>
+<h1 align="center">Hi 👋, I'm Abhiram</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer</strong> | Python • ML • Deep Learning <br/>
+  <b>AI/ML Engineer</b> <br/>
+  Python • Machine Learning • Deep Learning <br/>
   Building real-world AI products with Flask, AWS & APIs <br/>
   Always learning. Always shipping 🚀
 </p>
 
----
-
-### 👨‍💻 About Me
-- Passionate about software development  
-- Interested in AI / ML & real-world projects  
-- Love learning by building 🚀  
-
----
-
-### 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhi4u3&style=flat-square&color=blue"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+- 👨‍💻 Software developer passionate about real-world systems  
+- 🤖 Focused on AI / ML & backend engineering  
+- 🚀 Love turning ideas into working products  
+- 🧠 Learning deeply, building consistently  
+
+---
+
+## 🛠 Languages & Tools
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abhi4u3&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-  />
+  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,pytorch,git,linux,docker,aws,html,css,js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi4u3&show_icons=true&theme=dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi4u3&theme=dark" height="165"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Abhi4u3&style=flat-square&color=blue"
-    alt="Profile Views"
-  />
+  <i>"Code. Learn. Improve. Repeat."</i>
 </p>

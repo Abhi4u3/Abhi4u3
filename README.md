@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Abhi%204u3&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Hi 👋, I'm <marquee><p style="font-family: 'Times New Roman', serif;">AbhirAm</p></marquee></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AbhirAm&fontSize=42&fontColor=ffffff&color=0:0f2027,100:203a43" />
+</p>
 <p align="center">
 AI/ML Engineer | Python • ML • Deep Learning
 Building real-world AI products with Flask, AWS & APIs

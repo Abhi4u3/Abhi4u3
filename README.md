@@ -34,15 +34,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 </p>
----
 
 ## 📊 GitHub Stats
 <p align="center">

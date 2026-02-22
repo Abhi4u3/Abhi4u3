@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://techlaugh.com/wp-content/uploads/2023/07/040823_chatgpt_feat.gif"
-    width="75%"
+    width="100%"
     alt="Animated Sky Banner"
   />
 </p>
